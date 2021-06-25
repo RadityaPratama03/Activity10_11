@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343508749741",
+    "project_id": "fir-barang-cff7f",
+    "storage_bucket": "fir-barang-cff7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343508749741:android:1f0acd85cb88a2a9172524",
+        "android_client_info": {
+          "package_name": "com.example.firebasebarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343508749741-g7drfaksmv66sn8p3hkill1s7o3ti912.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJtl221yPXouNIJkG-u1dRn_eo6gYORI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343508749741-g7drfaksmv66sn8p3hkill1s7o3ti912.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
